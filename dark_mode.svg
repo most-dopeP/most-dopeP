@@ -10,19 +10,6 @@ text, tspan {white-space: pre;}
 
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
-darkmode.svg:
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
-<style>
-.keyColor {fill: #ffa657;}
-.valueColor {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.commentColor {fill: #8b949e;}
-text, tspan {white-space: pre;}
-</style>
-
-<rect width="970px" height="530px" fill="#161b22" rx="15"/>
-
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                      :::!~!!!!!:.                   </tspan>
 <tspan x="15" y="50">                  .xUHWH!! !!?M88WHX:.             </tspan>
