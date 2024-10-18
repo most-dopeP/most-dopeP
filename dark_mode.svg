@@ -10,28 +10,41 @@ text, tspan {white-space: pre;}
 
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
+darkmode.svg:
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                      :::!~!!!!!:.                   </tspan>
 <tspan x="15" y="50">                  .xUHWH!! !!?M88WHX:.             </tspan>
 <tspan x="15" y="70">                .X*#M@$!!  !X!M$$$$$$WWx:.         </tspan>
 <tspan x="15" y="90">               :!!!!!!?H! :!$!$$$$$$$$$$8X:        </tspan>
 <tspan x="15" y="110">              !!~  ~:~!! :~!$!#$$$$$$$$$$8X:       </tspan>
-<tspan x="15" y="130">             :!~::!H!   ~.U$X!?R$$$$$$$$MM!      </tspan>
+<tspan x="15" y="130">             :!~::!H!    ~.U$X!?R$$$$$$$$MM!      </tspan>
 <tspan x="15" y="150">             ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!       </tspan>
-<tspan x="15" y="170">               !:~~~ .:!M"T#$$$$WX??#MRRMMM!       </tspan>
-<tspan x="15" y="190">               ~?WuxiW*`   `"#$$$$8!!!!??!!!      </tspan>
-<tspan x="15" y="210">             :X- M$$$$       `"T#$T~!8$WUXU~      </tspan>
+<tspan x="15" y="170">               !:~~~ .:!M&quot;T#$$$$WX??#MRRMMM!       </tspan>
+<tspan x="15" y="190">               ~?WuxiW*`   `&quot;#$$$$8!!!!??!!!      </tspan>
+<tspan x="15" y="210">             :X- M$$$$       `&quot;T#$T~!8$WUXU~      </tspan>
 <tspan x="15" y="230">            :%`  ~#$$$m:        ~!~ ?$$$$$$       </tspan>
-<tspan x="15" y="250">          :!`.-   ~T$$$$8xx.  .xWW- ~""##*"       </tspan>
-<tspan x="15" y="270">.....   -~~:` !    ~?T#$$@@W@*?$$      /`        </tspan>
-<tspan x="15" y="290">W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :          </tspan>
-<tspan x="15" y="310">#"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`         </tspan>
-<tspan x="15" y="330">:::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~          </tspan>
-<tspan x="15" y="350">.~~   :X@!.-~   ?@WTWo"*$$$W$TH$! `            </tspan>
-<tspan x="15" y="370">Wi.~!X$?!-~    : ?$$$B$Wu"**$RM!               </tspan>
+<tspan x="15" y="250">          :!`.-   ~T$$$$8xx.  .xWW- ~&quot;&quot;##*&quot;       </tspan>
+<tspan x="15" y="270">.....   -~~:&lt;` !    ~?T#$$@@W@*?$$      /`        </tspan>
+<tspan x="15" y="290">W$@@M!!! .!~~ !!     .:XUW$W!~ `&quot;~:    :          </tspan>
+<tspan x="15" y="310">#&quot;~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`         </tspan>
+<tspan x="15" y="330">:::~:!!`:X~ .: ?H.!u &quot;$$$B$$$!W:U!T$$M~          </tspan>
+<tspan x="15" y="350">.~~   :X@!.-~   ?@WTWo(&quot;*$$$W$TH$! `            </tspan>
+<tspan x="15" y="370">Wi.~!X$?!-~    : ?$$$B$Wu(&quot;**$RM!               </tspan>
 <tspan x="15" y="390">$R@i.~~ !     :   ~$$$$$B$$en:``                </tspan>
-<tspan x="15" y="410">?MXT@Wx.~    :     ~"##*$$$$M~                  </tspan>
-
+<tspan x="15" y="410">?MXT@Wx.~    :     ~&quot;##*$$$$M~                  </tspan>
+</text>
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">most-dopeP</tspan>
 <tspan x="370" y="50">——————</tspan>
