@@ -35,7 +35,7 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#24292f">
 <tspan x="370" y="30">most-dopeP</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">BlackArch Linux, Windows 10</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Arch Linux, Windows 10</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">18 years</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Void</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Web app hacking &amp; Malware development</tspan>
